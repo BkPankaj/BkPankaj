@@ -1,6 +1,6 @@
 ### Hello curious people 😊
 
-Thanks you for showing interest to view my profile.
+Thank you for showing interest to view my profile.
 Let me Introduce myself to you...
 
 My name is Pankaj K Borade...
