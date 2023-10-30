@@ -9,6 +9,6 @@ My name is Pankaj K. Borade
 - 💬 Ask me about anything related to Tech, Web Development, Robotics...
 - 📫 How to reach me: [Portfolio](https://pankaj-borade-e9mq.onrender.com/) [Linkedin](https://www.linkedin.com/in/pankaj-k-borade/) , [Youtube](https://www.youtube.com/channel/UCC21Gpox7U1kT2yE6JDCW8g)
 
-- [(https://holopin.me/bkpankaj)](https://holopin.io/@bkpankaj)
+- [![An image of @bkpankaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bkpankaj)](https://holopin.io/@bkpankaj)
 
 
